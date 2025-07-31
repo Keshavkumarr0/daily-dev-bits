@@ -13,11 +13,11 @@ Welcome to `daily-dev-bits` — a personal collection of small, focused developm
 
 ## 📁 Projects (will be updated daily)
 
-| Day | Project Name      | Description                    |
-|-----|-------------------|--------------------------------|
-| 1   |                   | 🚧                             |
-| 2   | -                 | -                              |
-| ... | -                 | -                              |
+| Day | Project Name              | Description                                                                                                                     
+|-----|-------------------------- |---------------------------------------------------------------------------------------------------------------------------------  
+| 1   | Landing Page (HTML + CSS) | 🚧 A visually appealing and responsive landing page built with HTML and CSS, showcasing clean layout and modern design elements                          
+| 2   | -                         | -                                                                                                                                 
+| ... | -                         | -                                   |
 
 ---
 
